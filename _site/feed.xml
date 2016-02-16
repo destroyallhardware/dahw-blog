@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Destroy All Hardware</title>
+    <description>All circuits must die.</description>
+    <link>http://destroyallhardware.com//blog/</link>
+    <atom:link href="http://destroyallhardware.com//blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 13 Feb 2016 12:57:16 -0800</pubDate>
+    <lastBuildDate>Sat, 13 Feb 2016 12:57:16 -0800</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>The Art of Electronics (Destruction)</title>
+        <description>&lt;p&gt;Hello, everybody!&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This&lt;/li&gt;
+  &lt;li&gt;Is&lt;/li&gt;
+  &lt;li&gt;Silly&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-a-day&quot;&gt;What a day!&lt;/h1&gt;
+
+&lt;h2 id=&quot;to-be-alive&quot;&gt;To be alive!&lt;/h2&gt;
+
+&lt;h1 id=&quot;first-level-header&quot;&gt;First level header&lt;/h1&gt;
+
+&lt;h3 id=&quot;third-level-header&quot;&gt;Third level header&lt;/h3&gt;
+
+&lt;h2 id=&quot;second-level-header&quot;&gt;Second level header&lt;/h2&gt;
+
+</description>
+        <pubDate>Thu, 11 Feb 2016 10:36:22 -0800</pubDate>
+        <link>http://destroyallhardware.com//blog/hello/2016/02/11/the-art-of-electronics-destruction/</link>
+        <guid isPermaLink="true">http://destroyallhardware.com//blog/hello/2016/02/11/the-art-of-electronics-destruction/</guid>
+        
+        
+        <category>hello</category>
+        
+      </item>
+    
+  </channel>
+</rss>

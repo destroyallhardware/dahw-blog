@@ -1,0 +1,15 @@
+# Site settings
+title: Destroy All Hardware
+email: jedi@destroyallhardware.com
+description: "All circuits must die."
+baseurl: "/blog"
+url: "http://destroyallhardware.com/"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+
+permalink: pretty
